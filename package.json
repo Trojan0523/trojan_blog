@@ -1,7 +1,7 @@
 {
   "name": "student_xiongyu_blog",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "trojan",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build ."

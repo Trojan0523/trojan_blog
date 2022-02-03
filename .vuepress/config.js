@@ -80,7 +80,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "雄宇同学",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    "record": "copyRight",
     "startYear": "2020"
   },
   "markdown": {
